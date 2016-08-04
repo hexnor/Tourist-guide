@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string-array name="cities" >
+        <item >
+           Akshar Dham
+        </item>
+        <item >
+            CHandni Chowk
+        </item>
+        <item >
+            India Gate
+        </item>
+        <item >
+            Jama Masjid
+        </item>
+
+        <item >
+           Lotus Temple
+        </item>
+         <item >
+           Qutub minar
+        </item>
+
+    </string-array>
+    <string-array name="info">
+        <item>
+Akshardham means the divine abode of God. It is hailed as an eternal place of devotion, purity and peace. Swaminarayan Akshardham at New Delhi is a Mandir – an abode of God, a Hindu house of worship, and a spiritual and cultural campus dedicated to devotion, learning and harmony. Timeless Hindu spiritual messages, vibrant devotional traditions and ancient architecture all are echoed in its art and architecture.
+        </item>
+        <item>
+            Chandni Chowk is one of the oldest and busiest markets in Old Delhi, India. Chandni Chowk is located close to Old Delhi Railway Station. The Red Fort monument is located within the market. It was built in the 17th century by Mughal Emperor of India Shah Jahan and designed by his daughter Jahan Ara. The market was once divided by canals (now closed) to reflect moonlight and remains one of India\'s largest wholesale markets.
+        </item>
+        <item>
+            The India Gate, (originally called the All India War Memorial), is a war memorial located astride the Rajpath, on the eastern edge of the ‘ceremonial axis’ of New Delhi, formerly called Kingsway. India gate is a memorial to 82,000 soldiers of the undivided Indian Army who died in the period 1914–21 in the First World War, in France, Flanders, Mesopotamia, Persia, East Africa, Gallipoli and elsewhere in the Near and the Far East, and the Third Anglo-Afghan War. 13,300 servicemen\'s names, including some soldiers and officers from the United Kingdom, are inscribed on the gate.[1][2] The India Gate, even though a war memorial, evokes the architectural style of the triumphal arch like the Arch of Constantine, outside the Colosseum in Rome.
+        </item>
+        <item>
+            It was built by Mughal emperor Shah Jahan between 1644 and 1656 at a cost of 1 million rupees, and was inaugurated by an imam from Bukhara, present-day Uzbekistan. The mosque was completed in 1656 AD with three great gates, four towers and two 40 m high minarets constructed of strips of red sandstone and white marble. The courtyard can accommodate more than 25,000 persons. There are three domes on the terrace which are surrounded by the two minarets. On the floor, a total of 899 black borders are marked for worshippers. The architectural plan of Badshahi Masjid, built by Shah Jahan\'s son Aurangzeb at Lahore, Pakistan, is similar to the Jama Masjid.
+        </item>
+        <item>
+            The Lotus Temple, located in New Delhi, India, is a Bahá\'í House of Worship completed in 1986. Notable for its flowerlike shape, it serves as the Mother Temple of the Indian subcontinent and has become a prominent attraction in the city. The Lotus Temple has won numerous architectural awards and been featured in hundreds of newspaper and magazine articles.[1] Like all Bahá\'í Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification. The building is composed of 27 free-standing marble-clad "petals" arranged in clusters of three to form nine sides.
+        </item>
+        <item>
+            Qutub Minar,[1][2] at 120 meters, is the tallest brick minaret in the world. Qutub Minar, along with the ancient and medieval monuments surrounding it, form the Qutub Complex, which is a UNESCO World Heritage Site.[2][3][3] The tower is located in the Mehrauli area of Delhi, India.The Minaret of Jam a UNESCO World Heritage Site in western Afghanistan is thought to have been a direct inspiration for the Qutb Minar in Delhi, which was also built by the Ghurid Dynasty. Made of red sandstone and marble, Qutb Minar is a 73-meter (240 feet) tall tapering tower with a diameter measuring 14.32 meters (47 feet) at the base and 2.75 meters (9 feet) at the peak.[4] Inside the tower, a circular staircase with 379 steps leads to the top.
+        </item>
+    </string-array>
+
+</resources>

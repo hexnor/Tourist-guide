@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:state_pressed="false">
+    <shape android:shape="rectangle">
+
+        <corners android:radius="20dp"
+            ></corners>
+        <gradient android:startColor="#131232"
+            android:endColor="#325235"
+            android:centerColor="#234235"></gradient>
+        <stroke android:width="5dp"
+            android:color="@color/colorPrimaryDark">
+        </stroke>
+    </shape>
+</item>
+    <item android:state_pressed="false">
+        <shape android:shape="rectangle">
+
+            <corners android:radius="20dp"
+                ></corners>
+            <gradient android:startColor="#131232"
+                android:endColor="#325235"
+                android:centerColor="#234235"></gradient>
+            <stroke android:width="5dp"
+                android:color="@color/colorPrimaryDark">
+            </stroke>
+        </shape>
+    </item><item android:state_pressed="false">
+    <shape android:shape="rectangle">
+
+        <corners android:radius="20dp"
+            ></corners>
+        <gradient android:startColor="#131232"
+            android:endColor="#325235"
+            android:centerColor="#234235"></gradient>
+        <stroke android:width="5dp"
+            android:color="@color/colorPrimaryDark">
+        </stroke>
+    </shape>
+</item><item android:state_pressed="false">
+    <shape android:shape="rectangle">
+
+        <corners android:radius="20dp"
+            ></corners>
+        <gradient android:startColor="#131232"
+            android:endColor="#325235"
+            android:centerColor="#234235"></gradient>
+        <stroke android:width="5dp"
+            android:color="@color/colorPrimaryDark">
+        </stroke>
+    </shape>
+</item><item android:state_pressed="false">
+    <shape android:shape="rectangle">
+
+        <corners android:radius="20dp"
+            ></corners>
+        <gradient android:startColor="#131232"
+            android:endColor="#325235"
+            android:centerColor="#234235"></gradient>
+        <stroke android:width="5dp"
+            android:color="@color/colorPrimaryDark">
+        </stroke>
+    </shape>
+</item><item android:state_pressed="false">
+    <shape android:shape="rectangle">
+
+        <corners android:radius="20dp"
+            ></corners>
+        <gradient android:startColor="#131232"
+            android:endColor="#325235"
+            android:centerColor="#234235"></gradient>
+        <stroke android:width="5dp"
+            android:color="@color/colorPrimaryDark">
+        </stroke>
+    </shape>
+</item>
+
+</selector>
